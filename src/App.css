@@ -1,0 +1,30 @@
+
+.Stats{
+display: flex;
+gap:12%;
+
+margin: 20px -20% 30px 35%;
+}
+#Type{
+ margin: 0 30px 0 -235px;
+}
+#Rank{
+  margin: 0 -25px 0 55px;
+}
+#Symbole{
+  margin: 0 0px 0 -45px;
+}
+#Supply{
+  margin: 0 20px 0 35px;
+}
+#Price{
+  margin: 0 20px 0 150px;
+}
+
+
+
+
+
+
+
+

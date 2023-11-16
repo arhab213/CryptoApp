@@ -1,0 +1,14 @@
+#OneCoin{
+    display: grid;
+    grid-template-columns: 20% 2% 5% 30% 20%;
+    gap: 5%;
+    align-items: center;
+
+    background: rgb(75, 73, 73);
+    color:#B6FFFA;
+    height:70px;
+    width: 1000px;
+    padding:0px 20px;
+    margin:10px 10% 0 10%;
+    border-radius:5px;
+}
